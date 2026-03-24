@@ -1,0 +1,8 @@
+{
+  "name": "ai-panel",
+  "version": "1.0.0",
+  "description": "Consult other AI models (Gemini, GPT) for second opinions on architecture, code, and trade-offs",
+  "author": {
+    "name": "Tony Malins"
+  }
+}
