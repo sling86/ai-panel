@@ -1,0 +1,13 @@
+{
+  "name": "ai-panel",
+  "owner": {
+    "name": "Tony Malins"
+  },
+  "plugins": [
+    {
+      "name": "ai-panel",
+      "source": "./plugins/ai-panel",
+      "description": "Consult other AI models (Gemini, GPT) for second opinions on architecture, code, and trade-offs"
+    }
+  ]
+}
